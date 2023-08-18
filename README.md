@@ -9,8 +9,6 @@ I am a student at 42 Porto and I started my coding journey in March 2023 with a 
  </a>
 </p>      
 
-<img align="right" alt="mcarneir" width="380" src="https://badge.mediaplus.ma/darkblue/mcarneir?1337Badge=off&UM6P=off">
-<br>
 
 ## About Me:
 
@@ -19,6 +17,8 @@ I am a student at 42 Porto and I started my coding journey in March 2023 with a 
 - 🛠️ I work Freelance as a Graphic Designer.
 - 📫 You can reach me by email: martimnp@gmail.com
 
+<img align="left" alt="mcarneir" width="380" src="https://badge42.vercel.app/api/v2/cllgj1r5h003008mle9m1ecrn/stats?cursusId=21&coalitionId=undefined">
+<br>
 
 <!---
 MartimPinto/MartimPinto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
