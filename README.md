@@ -40,7 +40,7 @@ I am a student at 42 Porto and I started my coding journey in March 2023 with a 
 <summary style="font-size: 2.5em;"> <b>42 Common Core</b></summary>
   
 ### Individual Projects
-- [push_Swap](https://github.com/MartimPinto/push_swap) -> Sorting numbers between two stacks
+- [push_swap](https://github.com/MartimPinto/push_swap) -> Sorting numbers between two stacks
 - [so_long](https://github.com/MartimPinto/so_long) -> Development of a small 2D game using the Minilibx library in C
 - [Minitalk](https://github.com/MartimPinto/Minitalk) -> A small data exchange program using UNIX signals
 - [get_next_line](https://github.com/MartimPinto/get_next_line) -> Reading content line by line from a file, stdin, or even a network connection
