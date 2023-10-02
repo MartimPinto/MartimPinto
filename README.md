@@ -29,6 +29,8 @@ I am a student at 42 Porto and I started my coding journey in March 2023 with a 
 <br>
 <br>
 <br>
+<br>
+<br>
 
 ## Projects:
 
