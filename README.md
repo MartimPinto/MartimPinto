@@ -5,7 +5,7 @@ I am a student at 42 Porto and I started my coding journey in March 2023 with a 
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,git,github,vscode,vim,linux" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,git,github,vscode,vim,linux" />
  </a>
 </p>      
 
@@ -38,8 +38,12 @@ I am a student at 42 Porto and I started my coding journey in March 2023 with a 
 
 <details open>
 <summary style="font-size: 2.5em;"> <b>42 Common Core</b></summary>
+
+### Group Projects
+- [minishell](https://github.com/MartimPinto/minishell) -> What the shell?
   
 ### Individual Projects
+- [C++](https://github.com/MartimPinto/cpp_modules) -> A Piscine in C++ (Under Progress)
 - [philosophers](https://github.com/MartimPinto/philosophers) -> The philosophers dining problem in C
 - [push_swap](https://github.com/MartimPinto/push_swap) -> Sorting numbers between two stacks
 - [so_long](https://github.com/MartimPinto/so_long) -> Development of a small 2D game using the Minilibx library in C
