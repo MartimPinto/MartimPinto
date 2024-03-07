@@ -1,6 +1,6 @@
 # Hi, I’m Martim!
 
-I am a student at 42 Porto and I started my coding journey in March 2023 with a focus on the C programming language. I am currently studying at 42 Porto. On this page, you will find the projects I've developed during the course's `Common Core`.
+I am a student at 42 Porto and I started my coding journey in March 2023 with a focus on the C programming language. I am currently studying at 42 Porto. On this page, you will find the projects I've developed during the course's `Common Core` as well as any other courses and individual projects.
 
 ## Skills
 <p align="center">
