@@ -5,7 +5,7 @@ I am a student at 42 Porto and I started my coding journey in March 2023 with a 
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,git,github,vscode,vim,linux" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,git,python,github,vscode,vim,linux" />
  </a>
 </p>      
 
@@ -51,6 +51,16 @@ I am a student at 42 Porto and I started my coding journey in March 2023 with a 
 - [get_next_line](https://github.com/MartimPinto/get_next_line) -> Reading content line by line from a file, stdin, or even a network connection
 - [ft_printf](https://github.com/MartimPinto/ft_printf) -> Recoding the printf function in C
 - [libft](https://github.com/MartimPinto/libft) -> A C library
+
+</details>
+
+</details>
+<details open>
+
+<summary style="font-size: 2.5em;"> <b>Python</b></summary>
+
+### Courses
+- [CS50](https://github.com/MartimPinto/CS50_Python) -> Exercises from CS50’s Introduction to Programming with Python course (in progress)
 
 </details>
 
