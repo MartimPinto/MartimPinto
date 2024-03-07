@@ -12,7 +12,7 @@ I am a student at 42 Porto and I started my coding journey in March 2023 with a 
 
 ## About Me:
 
-- 🌱 I’m currently studying Common Core at [**42 Porto**](https://www.42porto.com) after successfully completing the Piscine and learning C.
+- 🌱 I’m currently taking the Common Core at [**42 Porto**](https://www.42porto.com) after successfully completing the Piscine and learning C.
 - 🎓 I have a Bachelor's Degree in Sound and Image and a MA in Record Production.
 - 🛠️ I work Freelance as a Graphic Designer.
 - 📫 You can reach me by email: **martimnp@gmail.com** or [**LinkedIn**](https://www.linkedin.com/in/martim-pinto-0a12a187/)
