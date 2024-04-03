@@ -17,19 +17,13 @@ I am a student at 42 Porto and I started my coding journey in March 2023 with a 
 - 🛠️ I work Freelance as a Graphic Designer.
 - 📫 You can reach me by email: **martimnp@gmail.com** or [**LinkedIn**](https://www.linkedin.com/in/martim-pinto-0a12a187/)
 
-<img align="left" alt="mcarneir" width="380" src="https://badge.mediaplus.ma/darkblue/mcarneir?1337Badge=off&UM6P=off">
+<br>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MartimPinto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartimPinto&layout=compact&langs_count=10&theme=dracula"/>
+</p>
+
 <br>
 
 ## Projects:
