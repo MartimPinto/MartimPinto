@@ -34,6 +34,7 @@ I am a student at 42 Porto and I started my coding journey in March 2023 with a 
 <summary style="font-size: 2.5em;"> <b>42 Common Core</b></summary>
 
 ### Group Projects
+- [cub3D](https://github.com/MartimPinto/cub3D) -> Raycasting and exploring a 3D space
 - [minishell](https://github.com/MartimPinto/minishell) -> What the shell?
   
 ### Individual Projects
