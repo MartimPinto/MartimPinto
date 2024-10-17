@@ -5,7 +5,7 @@ I am a student at 42 Porto and I started my coding journey in March 2023 with a 
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,git,python,github,vscode,vim,linux" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,git,python,github,vscode,vim,linux,docker" />
  </a>
 </p>      
 
