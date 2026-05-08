@@ -1,30 +1,21 @@
 # Hi, I’m Martim!
 
-I am a student at 42 Porto and I started my coding journey in March 2023 with a focus on the C programming language. On this page, you will find the projects I've developed during the course's `Common Core` as well as any other courses and individual projects.
+I am a Software Engineer for **Critical Software**. I started my coding journey in March 2023 as a student at 42 Porto, with a focus on the C programming language. On this page, you will find the projects I've developed during the course's `Common Core` as well as any other courses and individual projects.
 
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,git,python,github,vscode,vim,linux,docker" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,git,python,github,vscode,vim,linux,docker,js" />
  </a>
 </p>      
 
 
 ## About Me:
 
-- 🌱 I’m currently taking the Common Core at [**42 Porto**](https://www.42porto.com) after successfully completing the Piscine and learning C.
+- 🛠️ I work as a Software Engineer at **Critical Software**
+- 🌱 I learned to program at [**42 Porto**](https://www.42porto.com) after successfully completing the Piscine and learning C and C++ through the Common Core projects.
 - 🎓 I have a Bachelor's Degree in Sound and Image and a MA in Record Production.
-- 🛠️ I work Freelance as a Graphic Designer.
 - 📫 You can reach me by email: **martimnp@gmail.com** or [**LinkedIn**](https://www.linkedin.com/in/martim-pinto-0a12a187/)
-
-<br>
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MartimPinto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartimPinto&layout=compact&langs_count=10&theme=dracula"/>
-</p>
-
-<br>
 
 ## Projects:
 
