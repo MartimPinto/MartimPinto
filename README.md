@@ -49,7 +49,7 @@ I am a Software Engineer for **Critical Software**. I started my coding journey 
 
 ### Courses
 - [CS50](https://github.com/MartimPinto/CS50_Python) -> Exercises from CS50’s Introduction to Programming with Python course (in progress)
-
+- [Node.js](https://github.com/MartimPinto/node-course) -> Node.js tutorial project from Net Ninja
 </details>
 
 <!---
